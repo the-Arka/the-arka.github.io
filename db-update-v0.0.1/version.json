@@ -1,8 +1,0 @@
-{
-  "version": "0.0.1",
-  "dbUrl": "https://the-arka.github.io/db-update-v0.0.1/titles.db",
-  "sha256": "11213a734782b9e39f360211535258d7a254b9e4014fba7051adf99a309f0aba",
-  "postersManifestUrl": "https://the-arka.github.io/db-update-v0.0.1/posters-manifest.json",
-  "postersBaseUrl": "https://the-arka.github.io/db-update-v0.0.1/posters",
-  "publishedAt": "2026-04-03T23:09:29.285Z"
-}
