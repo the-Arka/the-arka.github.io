@@ -1,8 +1,9 @@
 {
-  "version": "0.0.17",
-  "zipUrl": "https://the-arka.github.io/db-update-v0.0.17.zip",
-  "sha256": "9a0cd9397ff389eb08ceb0afed2c545daabafc1796d483b0524d5aad2d929ea6",
-  "titlesDbSha256": "a260b87c81b1954121099973e79909f2d9df688796043aa585b15b88ed67e5e1",
-  "postersManifestUrl": "https://the-arka.github.io/db-update-v0.0.17/posters-manifest.json",
-  "publishedAt": "2026-05-07T21:34:15.289Z"
+  "version": "0.0.18",
+  "zipUrl": "https://the-arka.github.io/db-update-v0.0.18.zip",
+  "titlesDbSha256": "3e7df003b0de36a5c3c5860f66953acc38f824ef562f35dba6124c1115ac9cd1",
+  "postersManifestUrl": "https://the-arka.github.io/db-update-v0.0.18/posters-manifest.json",
+  "actorsManifestUrl": "https://the-arka.github.io/db-update-v0.0.18/actors-manifest.json",
+  "publishedAt": "2026-06-10T12:29:23.624Z",
+  "sha256": "a54d91a8446f2fe61a9cd3821e6d4c15b31736a490cb62a0775b82ac45310a12"
 }
